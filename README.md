@@ -1,4 +1,4 @@
-**Liver Transplant Committee — Statistical Analysis (Synthetic Data)**
+## Liver Transplant Committee — Statistical Analysis (Synthetic Data)
 Statistical evaluation pipeline for a game-theoretic multi-agent LLM
 committee simulating a liver transplant selection committee, developed
 as part of a research project at the Bhat Liver Lab, University of Toronto.
@@ -18,7 +18,7 @@ outcomes and screening for demographic disparities in its errors:
 - **Benjamini-Hochberg (FDR) correction** — controls the false-positive
   rate across the many simultaneous subgroup tests being run
 
-## Why the data is synthetic
+**Why the data is synthetic**
 
 The original analysis was run on data from the Scientific Registry of
 Transplant Recipients (SRTR), which is restricted under a data use
