@@ -1,7 +1,7 @@
 ## Statistical Analysis for Liver Transplant Committee Project (with synthetic data)
 Statistical evaluation pipeline for a game-theoretic multi-agent LLM
 committee simulating a liver transplant selection committee, developed
-as part of a research project at the Bhat Liver Lab, University of Toronto.
+as part of a research project at the Bhat Liver Lab, UHN.
 
 Code for evaluating the committee's listing decisions against ground truth
 outcomes and screening for demographic disparities in its errors:
@@ -26,6 +26,3 @@ agreement and cannot be shared or reproduced publicly. All data in this
 repo is randomly generated to match the shape of the real dataset, so the
 statistical methodology can be run and inspected end-to-end without any
 real patient data.
-
-**Results produced by this repo carry no clinical meaning** — they reflect
-patterns (or lack thereof) in randomly generated numbers only.
