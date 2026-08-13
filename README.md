@@ -1,4 +1,4 @@
-## Liver Transplant Committee — Statistical Analysis (Synthetic Data)
+## Statistical Analysis for Liver Transplant Committee Project (with synthetic data)
 Statistical evaluation pipeline for a game-theoretic multi-agent LLM
 committee simulating a liver transplant selection committee, developed
 as part of a research project at the Bhat Liver Lab, University of Toronto.
