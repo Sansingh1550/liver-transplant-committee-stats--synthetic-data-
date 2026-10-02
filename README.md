@@ -1,4 +1,5 @@
 ## Statistical Analysis for Liver Transplant Committee Project (with synthetic data)
+*this analysis is partial and outdated! just for show*
 Statistical evaluation pipeline for a game-theoretic multi-agent LLM
 committee simulating a liver transplant selection committee, developed
 as part of a research project at the Bhat Liver Lab, UHN.
